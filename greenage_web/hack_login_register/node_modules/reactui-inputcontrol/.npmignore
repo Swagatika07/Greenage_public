@@ -1,0 +1,13 @@
+.DS_STORE
+
+coverage
+
+node_modules
+
+.lock-wscript
+
+build/Release
+
+.publish
+
+example/bundle*
